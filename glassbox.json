@@ -1,0 +1,114 @@
+{
+  "slug": "riverclear",
+  "box": 186,
+  "date": "2026-10-24",
+  "title": "RiverClear",
+  "question": "How do rivers form?",
+  "hook": "Nobody digs a river: rain does. Rain on a landscape and watch a river network grow, lift sand and drop mud, walk a waterfall upstream, let meanders cut themselves off into oxbow lakes, build a delta, and follow the Ganga from Gaumukh to the Sundarbans.",
+  "thumbText": "HOW RIVERS FORM",
+  "field": "nature",
+  "minutes": 16,
+  "tags": [
+    "rivers",
+    "Ganga",
+    "Brahmaputra",
+    "drainage basin",
+    "stream order",
+    "erosion",
+    "Hjulström curve",
+    "waterfalls",
+    "meanders",
+    "oxbow lakes",
+    "deltas",
+    "Sundarbans",
+    "Majuli",
+    "Kosi",
+    "discharge",
+    "geography",
+    "nature",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Source to sea",
+      "text": "A river is rain and melt running downhill to the sea. The Bhagirathi leaves the Gangotri glacier at Gaumukh, at about 3,900 m, and the Ganga runs about 2,525 km to the Bay of Bengal. Steep in the hills, it cuts down into V-shaped valleys; on the plain it meanders and spreads silt; at the sea it builds a delta."
+    },
+    {
+      "title": "Water finds a way",
+      "text": "Every drop runs down the steepest slope, so trickles join into streams and streams into a river: a network that branches like a tree. All the land draining to one river is its basin, ringed by a divide; the Ganga basin covers 861,404 km² of India, nearly 26 % (CWC). Each stream order has about three to five times fewer streams than the one below."
+    },
+    {
+      "title": "Lift, carry, drop",
+      "text": "Whether a river lifts, carries or drops a grain depends on speed and size. Sand of about 0.2 mm moves most easily; settled clay sticks together and needs fast water; once lifted, mud stays up almost indefinitely. Fast rivers grind out V-shaped valleys and gorges, and waterfalls eat their way upstream: Niagara has moved about 11 km in about 12,000 years."
+    },
+    {
+      "title": "Meanders and deltas",
+      "text": "On flat land the fastest water swings to the outside of each bend and wears it away, while sand builds a point bar on the inside, so loops grow until they cut themselves off as oxbow lakes. At the sea the river drops its load and builds a delta lobe by lobe, like the Ganga–Brahmaputra delta and its Sundarbans mangroves. Braided and shifting rivers such as the Brahmaputra and the Kosi carry more sediment than they can hold."
+    },
+    {
+      "title": "Water and mud",
+      "text": "Discharge is width × depth × speed, with the speed set by slope, depth and roughness (Manning's equation). The Ganga at Farakka averaged about 12,000 m³/s over 1949–73, with a record peak about five times that. Together the Ganga and Brahmaputra carry roughly 650 million to 1.8 billion tonnes of sediment a year to the sea, depending on the study."
+    },
+    {
+      "title": "Rivers and people",
+      "text": "Cities from the Indus civilisation onwards grew by rivers, and the Ganga is revered as a goddess. Dams and barrages such as Tehri (2006), Farakka (1975) and Sardar Sarovar (2017) store and divert water but trap silt and displace people; the Ken–Betwa link began in 2024; Namami Gange (2015) treats sewage. Playfair, Hjulström, Horton, Strahler and the Central Water Commission (1945) shaped how we understand rivers."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Drainage basin",
+      "def": "All the land that drains into one river and its tributaries; also called a catchment."
+    },
+    {
+      "term": "Divide",
+      "def": "The high ground between two basins: rain on either side flows to different rivers."
+    },
+    {
+      "term": "Stream order",
+      "def": "Strahler's numbering: unbranched streams are order 1, and two streams of order n make order n + 1."
+    },
+    {
+      "term": "Baseflow",
+      "def": "The part of a river's flow that seeps in from groundwater and keeps it running between rains."
+    },
+    {
+      "term": "Hjulström curve",
+      "def": "A chart of the water speeds that lift, carry and drop grains of each size."
+    },
+    {
+      "term": "Meander",
+      "def": "A loop on a lowland river that grows as the outer bank wears away and the inner bank builds a point bar."
+    },
+    {
+      "term": "Oxbow lake",
+      "def": "A curved lake left when a river cuts through the neck of a meander."
+    },
+    {
+      "term": "Delta",
+      "def": "Land built of river sediment where a river meets still water, crossed by distributaries."
+    },
+    {
+      "term": "Discharge",
+      "def": "The volume of water flowing past a point each second: width × depth × average speed."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "riverclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

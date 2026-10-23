@@ -1,0 +1,853 @@
+{
+  "title": "The history of how we understand rivers",
+  "tagline": "From cities built on the Indus floods to satellites measuring rivers from orbit: how people learned that rivers make their own valleys, plains and deltas.",
+  "intro": "People have lived by rivers since the first cities, and long believed they were fed from springs deep inside the Earth. Measurements from the 1600s showed rain is enough to feed them, and geologists from Playfair to Gilbert showed rivers carve their own valleys. In the 1900s Hjulström, Horton and Strahler turned erosion and river networks into numbers, and India built a national system to gauge, store and share its rivers.",
+  "eras": [
+    {
+      "id": "ancient",
+      "name": "Rivers and the first cities",
+      "from": -3000,
+      "to": 0,
+      "color": "#ffb547",
+      "summary": "Civilisations grow on river floodplains, and rivers become sacred."
+    },
+    {
+      "id": "reading",
+      "name": "Reading the land",
+      "from": 1500,
+      "to": 1860,
+      "color": "#c49bff",
+      "summary": "Measurement and geology show that rain feeds rivers and that rivers carve valleys."
+    },
+    {
+      "id": "measuring",
+      "name": "Measuring rivers",
+      "from": 1860,
+      "to": 1990,
+      "color": "#ff7a59",
+      "summary": "Flow formulas, erosion charts and stream orders make rivers a quantitative science."
+    },
+    {
+      "id": "india",
+      "name": "Managing India's rivers",
+      "from": 1945,
+      "to": 2026,
+      "color": "#a3e635",
+      "summary": "India gauges, dams, links and cleans its rivers, and debates how."
+    },
+    {
+      "id": "space",
+      "name": "Rivers from space",
+      "from": 1972,
+      "to": 2026,
+      "color": "#8ef0ff",
+      "summary": "Satellites watch rivers move, deltas grow and water levels rise and fall."
+    }
+  ],
+  "events": [
+    {
+      "year": -2600,
+      "date": "c. 2600 BCE",
+      "era": "ancient",
+      "art": "building",
+      "title": "Cities on the Indus",
+      "who": "The Harappan (Indus Valley) civilisation",
+      "where": "Harappa and Mohenjo-daro",
+      "country": "Pakistan and India",
+      "text": "In its mature phase, from about 2600 to 1900 BCE, the Indus civilisation built planned brick cities with drains and wells along the Indus and its tributaries, and farmed the plains their floods watered.",
+      "why": "One of the first great civilisations lived by a river's floods, like Egypt on the Nile and Mesopotamia on the Tigris and Euphrates.",
+      "sources": [
+        0
+      ],
+      "box": "people",
+      "key": true
+    },
+    {
+      "year": -1300,
+      "date": "c. 1500–1200 BCE (attributed)",
+      "era": "ancient",
+      "art": "scroll",
+      "title": "A hymn to the rivers",
+      "who": "Poets of the Rigveda",
+      "where": "North-west India",
+      "country": "India",
+      "text": "The Nadistuti hymn of the Rigveda praises the rivers of north India in order from east to west, beginning with the Ganga, the Yamuna and the Sarasvati. Its date is uncertain, and which river the Sarasvati was is still debated.",
+      "why": "Rivers were sacred in India from the earliest texts, and still are.",
+      "sources": [
+        1
+      ],
+      "box": "people"
+    },
+    {
+      "year": -430,
+      "date": "c. 430 BCE",
+      "era": "ancient",
+      "art": "quill",
+      "title": "The gift of the river",
+      "who": "Herodotus",
+      "where": "Halicarnassus",
+      "country": "Greece",
+      "text": "In his Histories the Greek writer described lower Egypt as land the Nile had given: built of the mud its yearly floods laid down.",
+      "why": "An early written idea that rivers build land, the idea behind floodplains and deltas.",
+      "sources": [
+        2
+      ],
+      "box": "meander"
+    },
+    {
+      "year": 1508,
+      "date": "c. 1506–1510",
+      "era": "reading",
+      "art": "quill",
+      "title": "Leonardo watches water",
+      "who": "Leonardo da Vinci",
+      "where": "Milan and Florence",
+      "country": "Italy",
+      "text": "In the notebooks now called the Codex Leicester, Leonardo sketched eddies, the way rivers wear their banks and carry stones, and how water shapes the land.",
+      "why": "He looked at rivers as things that do work on the land, centuries before geology was a science.",
+      "sources": [
+        3
+      ]
+    },
+    {
+      "year": 1674,
+      "date": "1674",
+      "era": "reading",
+      "art": "waterdrop",
+      "title": "Is there enough rain?",
+      "who": "Pierre Perrault",
+      "where": "Paris",
+      "country": "France",
+      "text": "Perrault measured the rain over the upper Seine basin for three years and estimated the river's flow. The rain came to about six times the flow: easily enough to feed the river.",
+      "why": "It settled an old argument: rivers are fed by rain, not by water rising from deep inside the Earth.",
+      "sources": [
+        4
+      ],
+      "box": "network",
+      "key": true
+    },
+    {
+      "year": 1775,
+      "date": "c. 1769–1775",
+      "era": "reading",
+      "art": "scroll",
+      "title": "A formula for a river's speed",
+      "who": "Antoine de Chézy",
+      "where": "Paris",
+      "country": "France",
+      "text": "Planning a canal to bring water to Paris, the French engineer worked out that a river's speed grows with the square root of its slope and of its depth, divided by the roughness of its bed.",
+      "why": "The first formula for open-channel flow, the ancestor of Manning's equation.",
+      "sources": [
+        5
+      ],
+      "box": "flow"
+    },
+    {
+      "year": 1779,
+      "date": "1779",
+      "era": "reading",
+      "art": "compass",
+      "title": "Mapping Bengal's rivers",
+      "who": "James Rennell",
+      "where": "Bengal",
+      "country": "India",
+      "text": "After years of surveys from 1764, Rennell published the Bengal Atlas, mapping the Ganga, the Brahmaputra and their delta, and noting how quickly their channels moved.",
+      "why": "The first detailed maps of the world's greatest delta, and of rivers that would not stay still.",
+      "sources": [
+        6
+      ],
+      "box": "meander"
+    },
+    {
+      "year": 1802,
+      "date": "1802",
+      "era": "reading",
+      "art": "quill",
+      "title": "Every river cuts its own valley",
+      "who": "John Playfair",
+      "where": "Edinburgh",
+      "country": "Scotland",
+      "text": "Explaining James Hutton's ideas, Playfair argued that each river sits in a valley sized to it, and that tributaries meet the main valley at just the right level. That could only happen if the rivers had carved the valleys themselves.",
+      "why": "It became known as Playfair's law: valleys are made by the rivers that flow in them.",
+      "sources": [
+        7
+      ],
+      "box": "carve",
+      "key": true
+    },
+    {
+      "year": 1854,
+      "date": "8 April 1854",
+      "era": "reading",
+      "art": "boat",
+      "title": "The Ganges Canal opens",
+      "who": "Proby Cautley and engineers of the East India Company",
+      "where": "Haridwar",
+      "country": "India",
+      "text": "A canal taking water from the Ganga at Haridwar opened to irrigate the land between the Ganga and Yamuna, after a famine in 1837–38.",
+      "why": "One of the largest irrigation works of its time, and the start of large-scale river engineering in India.",
+      "sources": [
+        9
+      ],
+      "box": "people"
+    },
+    {
+      "year": 1877,
+      "date": "1877",
+      "era": "measuring",
+      "art": "mountain",
+      "title": "Laws of land sculpture",
+      "who": "Grove Karl Gilbert",
+      "where": "Henry Mountains, Utah",
+      "country": "USA",
+      "text": "In his report on the Henry Mountains, Gilbert explained how rivers cut down, how they balance their slope against the load they carry, and why hard and soft rocks wear at different rates.",
+      "why": "He turned river erosion into physics, the basis of the stream-power models used today.",
+      "sources": [
+        10
+      ],
+      "box": "carve"
+    },
+    {
+      "year": 1889,
+      "date": "1889",
+      "era": "measuring",
+      "art": "scroll",
+      "title": "Manning's equation",
+      "who": "Robert Manning",
+      "where": "Dublin",
+      "country": "Ireland",
+      "text": "The Irish engineer proposed the formula still used to estimate a river's speed from its depth, slope and roughness.",
+      "why": "Engineers and hydrologists use it every day, from drains to the Ganga.",
+      "sources": [
+        11
+      ],
+      "box": "flow"
+    },
+    {
+      "year": 1899,
+      "date": "1899",
+      "era": "measuring",
+      "art": "mountain",
+      "title": "Youth, maturity and old age",
+      "who": "William Morris Davis",
+      "where": "Cambridge, Massachusetts",
+      "country": "USA",
+      "text": "Davis described landscapes, and rivers, as passing from steep, fast 'youth' through 'maturity' to flat, winding 'old age'.",
+      "why": "The textbook picture of upper, middle and lower course comes from his scheme, though geologists now see it as too simple.",
+      "sources": [
+        12
+      ],
+      "box": "journey"
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "measuring",
+      "art": "waterdrop",
+      "title": "Lift, carry, drop",
+      "who": "Filip Hjulström",
+      "where": "Uppsala",
+      "country": "Sweden",
+      "text": "Studying the River Fyris for his doctoral thesis, Hjulström drew a chart of the water speeds that lift, carry and drop grains of each size.",
+      "why": "The Hjulström curve shows why sand moves most easily and why settled clay is hard to lift.",
+      "sources": [
+        13
+      ],
+      "box": "carve",
+      "key": true
+    },
+    {
+      "year": 1935,
+      "date": "1935",
+      "era": "measuring",
+      "art": "mountain",
+      "title": "Measuring the Gangotri glacier",
+      "who": "J. B. Auden, Geological Survey of India",
+      "where": "Gangotri",
+      "country": "India",
+      "text": "Auden surveyed the snout of the Gangotri glacier at Gaumukh and, from old moraines and maps, estimated it had been retreating since the 1840s. The Geological Survey of India repeated surveys in the following decades.",
+      "why": "The start of a long record of the Ganga's source glacier shrinking.",
+      "sources": [
+        8
+      ],
+      "box": "network"
+    },
+    {
+      "year": 1945,
+      "date": "1945",
+      "era": "measuring",
+      "art": "waterdrop",
+      "title": "Horton's laws",
+      "who": "Robert E. Horton",
+      "where": "Voorheesville, New York",
+      "country": "USA",
+      "text": "Horton showed that river networks follow simple rules: number the streams by order and each order has a fairly constant ratio fewer streams than the one below.",
+      "why": "It made drainage networks something you could measure and compare.",
+      "sources": [
+        14
+      ],
+      "box": "network",
+      "key": true
+    },
+    {
+      "year": 1945,
+      "date": "5 April 1945",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "India's water commission is founded",
+      "who": "B. R. Ambedkar and A. N. Khosla",
+      "where": "Delhi",
+      "country": "India",
+      "text": "A government resolution set up the Central Waterways, Irrigation and Navigation Commission, with Khosla as its first chairman, on Ambedkar's advice. Its water wing became the Central Water Commission in 1974.",
+      "why": "India's national body for river data, water planning and flood forecasting.",
+      "sources": [
+        15,
+        38
+      ],
+      "box": "flow",
+      "key": true
+    },
+    {
+      "year": 1952,
+      "date": "1952 and 1957",
+      "era": "measuring",
+      "art": "scroll",
+      "title": "Strahler's stream orders",
+      "who": "Arthur Strahler",
+      "where": "New York",
+      "country": "USA",
+      "text": "Strahler refined Horton's numbering into the stream order used today: unbranched streams are order 1, and two streams of the same order make the next order up.",
+      "why": "Hydrologists everywhere describe river networks this way.",
+      "sources": [
+        14
+      ],
+      "box": "network"
+    },
+    {
+      "year": 1966,
+      "date": "1966",
+      "era": "india",
+      "art": "compass",
+      "title": "The Kosi on the move",
+      "who": "S. V. Gole and S. V. Chitale",
+      "where": "Pune",
+      "country": "India",
+      "text": "Using old maps, the two engineers described the Kosi moving about 70 miles west in about 230 years, by building up its own fan of sediment. Later studies of the same maps found it had swung back and forth rather than one way.",
+      "why": "The Kosi became the classic example of a river that keeps changing its course.",
+      "sources": [
+        17,
+        16
+      ],
+      "box": "meander"
+    },
+    {
+      "year": 1972,
+      "date": "23 July 1972",
+      "era": "space",
+      "art": "earth",
+      "title": "Rivers from space",
+      "who": "NASA",
+      "where": "Vandenberg, California",
+      "country": "USA",
+      "text": "Landsat 1, the first satellite built to image the land, was launched. Its pictures showed whole river systems, deltas and shifting channels at once.",
+      "why": "Since then satellites have tracked rivers changing course, deltas growing and floods spreading.",
+      "sources": [
+        18
+      ],
+      "box": "meander"
+    },
+    {
+      "year": 1975,
+      "date": "21 April 1975",
+      "era": "india",
+      "art": "building",
+      "title": "Farakka Barrage",
+      "who": "Government of India",
+      "where": "Farakka, West Bengal",
+      "country": "India",
+      "text": "The barrage across the Ganga came into operation, sending part of the river down a feeder canal into the Hooghly.",
+      "why": "Its effects downstream, and the sharing of the Ganga's dry-season water with Bangladesh, made it one of the most debated works on any river.",
+      "sources": [
+        19
+      ],
+      "box": "people"
+    },
+    {
+      "year": 1980,
+      "date": "August 1980",
+      "era": "india",
+      "art": "compass",
+      "title": "A plan to link rivers",
+      "who": "Ministry of Irrigation",
+      "where": "Delhi",
+      "country": "India",
+      "text": "The National Perspective Plan proposed transferring water from basins with surplus to basins short of water. The National Water Development Agency later identified 30 links: 16 in the peninsula and 14 from the Himalaya.",
+      "why": "A long-running national debate about moving water between rivers.",
+      "sources": [
+        20
+      ],
+      "box": "people"
+    },
+    {
+      "year": 1984,
+      "date": "1984",
+      "era": "measuring",
+      "art": "wave",
+      "title": "A model of meanders",
+      "who": "Alan Howard and Thomas Knutson",
+      "where": "Charlottesville, Virginia",
+      "country": "USA",
+      "text": "They modelled a meandering river by moving each point of its centre line sideways at a rate set by the bends just upstream, with cut-offs when loops touch.",
+      "why": "Their model, used in this box, reproduces growing loops and oxbow lakes from a few rules.",
+      "sources": [
+        33
+      ],
+      "box": "meander"
+    },
+    {
+      "year": 1986,
+      "date": "14 January 1986",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "The Ganga Action Plan",
+      "who": "Government of India",
+      "where": "Varanasi",
+      "country": "India",
+      "text": "India's first big programme to clean the Ganga was launched, chiefly to intercept and treat sewage from towns along the river.",
+      "why": "It began three decades of efforts to clean the river.",
+      "sources": [
+        35
+      ],
+      "box": "people"
+    },
+    {
+      "year": 1987,
+      "date": "1987",
+      "era": "india",
+      "art": "leaf",
+      "title": "The Sundarbans protected",
+      "who": "UNESCO",
+      "where": "West Bengal",
+      "country": "India",
+      "text": "Sundarbans National Park, in the Indian part of the delta, was inscribed as a World Heritage site; the Bangladesh Sundarbans followed in 1997.",
+      "why": "The world's largest mangrove forest grows on land the Ganga and Brahmaputra built.",
+      "sources": [
+        22,
+        37
+      ],
+      "box": "meander"
+    },
+    {
+      "year": 1996,
+      "date": "12 December 1996",
+      "era": "india",
+      "art": "scales",
+      "title": "Sharing the Ganga",
+      "who": "India and Bangladesh",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The two countries signed a 30-year treaty on sharing the Ganga's water at Farakka in the dry months.",
+      "why": "A shared river needs shared rules.",
+      "sources": [
+        23
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2006,
+      "date": "22 September 2006",
+      "era": "india",
+      "art": "building",
+      "title": "Tehri Dam produces power",
+      "who": "THDC India Ltd",
+      "where": "Tehri, Uttarakhand",
+      "country": "India",
+      "text": "The first unit at Tehri, a 260.5 m earth and rockfill dam on the Bhagirathi, the tallest in India, went into commercial operation. The old town of Tehri was submerged.",
+      "why": "Stored Himalayan water for power and supply, at the cost of a drowned valley.",
+      "sources": [
+        24
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2015,
+      "date": "13 May 2015",
+      "era": "india",
+      "art": "waterdrop",
+      "title": "Namami Gange",
+      "who": "Union Cabinet",
+      "where": "Delhi",
+      "country": "India",
+      "text": "The government approved the Namami Gange programme with ₹20,000 crore for 2015 to 2020, after about ₹4,000 crore had been spent since 1985.",
+      "why": "The largest effort yet to clean the Ganga, chiefly by treating sewage.",
+      "sources": [
+        39,
+        21
+      ],
+      "box": "people",
+      "key": true
+    },
+    {
+      "year": 2017,
+      "date": "December 2017",
+      "era": "india",
+      "art": "person",
+      "title": "Kumbh Mela listed by UNESCO",
+      "who": "UNESCO",
+      "where": "Jeju",
+      "country": "South Korea",
+      "text": "The Kumbh Mela, held in turn at Prayagraj, Haridwar, Ujjain and Nashik, was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity.",
+      "why": "Rivers are part of India's culture as well as its geography.",
+      "sources": [
+        26
+      ],
+      "box": "people"
+    },
+    {
+      "year": 2022,
+      "date": "December 2022",
+      "era": "space",
+      "art": "earth",
+      "title": "Measuring rivers from orbit",
+      "who": "NASA and CNES",
+      "where": "Vandenberg, California",
+      "country": "USA",
+      "text": "The SWOT satellite was launched to measure the height of the water in rivers, lakes and the sea from space.",
+      "why": "Rivers that have no gauges can now be measured from orbit.",
+      "sources": [
+        27
+      ],
+      "box": "flow"
+    },
+    {
+      "year": 2024,
+      "date": "25 December 2024",
+      "era": "india",
+      "art": "compass",
+      "title": "The first river link begins",
+      "who": "Government of India",
+      "where": "Khajuraho, Madhya Pradesh",
+      "country": "India",
+      "text": "The foundation stone of the Ken–Betwa link and its Daudhan dam was laid, the first link of the National Perspective Plan to be built.",
+      "why": "Supporters see water for Bundelkhand; critics question its cost and its effect on forest and wildlife.",
+      "sources": [
+        28,
+        20
+      ],
+      "box": "people"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Rain shown to be enough to feed a river",
+      "value": "1674",
+      "who": "Pierre Perrault, upper Seine"
+    },
+    {
+      "label": "Rivers said to carve their own valleys",
+      "value": "1802",
+      "who": "John Playfair"
+    },
+    {
+      "label": "Chart of the speeds that lift, carry and drop grains",
+      "value": "1935",
+      "who": "Filip Hjulström"
+    },
+    {
+      "label": "Laws of stream numbers",
+      "value": "1945",
+      "who": "Robert E. Horton"
+    },
+    {
+      "label": "India's national river commission",
+      "value": "1945",
+      "who": "CWINC, later the Central Water Commission"
+    },
+    {
+      "label": "First Indian flood forecast",
+      "value": "1958",
+      "who": "CWC, Yamuna at Delhi"
+    },
+    {
+      "label": "Satellite built to measure river heights",
+      "value": "2022",
+      "who": "SWOT, NASA and CNES"
+    }
+  ],
+  "people": [
+    {
+      "name": "Herodotus",
+      "life": "c. 484 – c. 425 BCE",
+      "role": "Historian",
+      "from": "Greece",
+      "note": "Called Egypt the gift of its river."
+    },
+    {
+      "name": "Pierre Perrault",
+      "life": "1608 – 1680",
+      "role": "Hydrologist",
+      "from": "France",
+      "note": "Showed rain is enough to feed the Seine."
+    },
+    {
+      "name": "James Rennell",
+      "life": "1742 – 1830",
+      "role": "Surveyor",
+      "from": "England",
+      "note": "Mapped the Ganga, Brahmaputra and their delta."
+    },
+    {
+      "name": "John Playfair",
+      "life": "1748 – 1819",
+      "role": "Mathematician and geologist",
+      "from": "Scotland",
+      "note": "Argued that rivers carve their own valleys."
+    },
+    {
+      "name": "Grove Karl Gilbert",
+      "life": "1843 – 1918",
+      "role": "Geologist",
+      "from": "USA",
+      "note": "Explained river erosion and balance."
+    },
+    {
+      "name": "Filip Hjulström",
+      "life": "1902 – 1982",
+      "role": "Geographer",
+      "from": "Sweden",
+      "note": "Drew the chart of lift, carry and drop."
+    },
+    {
+      "name": "Robert E. Horton",
+      "life": "1875 – 1945",
+      "role": "Hydrologist",
+      "from": "USA",
+      "note": "Found the laws of stream numbers."
+    },
+    {
+      "name": "Arthur Strahler",
+      "life": "1918 – 2002",
+      "role": "Geographer",
+      "from": "USA",
+      "note": "Gave us the stream-order numbers used today."
+    },
+    {
+      "name": "A. N. Khosla",
+      "life": "1892 – 1984",
+      "role": "Engineer",
+      "from": "India",
+      "note": "First chairman of the commission that became CWC."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "The Ganga basin covers 861,404 km² of India, nearly 26 % of the country (CWC).",
+    "The Bhagirathi leaves the Gangotri glacier at Gaumukh, at 3,892 m (Uttarakhand government).",
+    "Sand of about 0.2 mm is the easiest grain for a river to pick up; settled clay, though tiny, needs much faster water.",
+    "Niagara Falls has moved about 11 km upstream in about 12,000 years (New York State Museum).",
+    "The Ganga and Brahmaputra carry roughly 650 million to 1.8 billion tonnes of sediment a year to the sea, depending on the study.",
+    "In most river networks each stream order has about three to five times fewer streams than the order below."
+  ],
+  "sources": [
+    {
+      "title": "Indus Valley Civilisation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation"
+    },
+    {
+      "title": "Nadistuti sukta",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nadistuti_sukta"
+    },
+    {
+      "title": "Histories (Herodotus)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Histories_(Herodotus)"
+    },
+    {
+      "title": "Codex Leicester",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Codex_Leicester"
+    },
+    {
+      "title": "Pierre Perrault (hydrologist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pierre_Perrault_(hydrologist)"
+    },
+    {
+      "title": "Chézy formula",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ch%C3%A9zy_formula"
+    },
+    {
+      "title": "James Rennell",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/James_Rennell"
+    },
+    {
+      "title": "Playfair's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Playfair%27s_law"
+    },
+    {
+      "title": "Gangotri Glacier retreat and mass loss (Journal of Glaciology)",
+      "publisher": "Cambridge University Press",
+      "url": "https://resolve.cambridge.org/core/product/24EA754D329C883D47CC7B61D13841DD/core-reader"
+    },
+    {
+      "title": "Ganges Canal",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ganges_Canal"
+    },
+    {
+      "title": "Grove Karl Gilbert",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grove_Karl_Gilbert"
+    },
+    {
+      "title": "Manning formula",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manning_formula"
+    },
+    {
+      "title": "William Morris Davis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/William_Morris_Davis"
+    },
+    {
+      "title": "Hjulström curve",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hjulstr%C3%B6m_curve"
+    },
+    {
+      "title": "Stream order",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stream_order"
+    },
+    {
+      "title": "Citizen's charter: history of CWC",
+      "publisher": "Central Water Commission",
+      "url": "https://www.cwc.gov.in/sites/default/files/admin/cwcitizencharter.pdf"
+    },
+    {
+      "title": "Kosi River",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kosi_River"
+    },
+    {
+      "title": "Inland delta building activity of Kosi River (Gole and Chitale, 1966)",
+      "publisher": "ASCE Journal of the Hydraulics Division",
+      "url": "https://ascelibrary.com/doi/10.1061/JYCEAJ.0001406"
+    },
+    {
+      "title": "Landsat 1",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Landsat_1"
+    },
+    {
+      "title": "Farakka Barrage",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Farakka_Barrage"
+    },
+    {
+      "title": "Note on interlinking of rivers",
+      "publisher": "National Water Development Agency",
+      "url": "https://www.nwda.gov.in/upload/uploadfiles/files/NOTE%20ON%20INTERLINKING%20OF%20RIVERS.pdf"
+    },
+    {
+      "title": "Namami Gange Programme",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Namami_Gange_Programme"
+    },
+    {
+      "title": "Sundarbans National Park",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/452"
+    },
+    {
+      "title": "Ganges Water Treaty",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ganges_Water_Treaty"
+    },
+    {
+      "title": "Tehri Hydro Power Plant",
+      "publisher": "THDC India Ltd",
+      "url": "https://thdc.co.in/sites/default/files/operational-performance%20/TEHRI_HEP.pdf"
+    },
+    {
+      "title": "PM to dedicate Sardar Sarovar Dam to the nation",
+      "publisher": "PMIndia",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-to-dedicate-sardar-sarovar-dam-to-the-nation-address-two-public-meetings-in-gujarat/"
+    },
+    {
+      "title": "Kumbh Mela",
+      "publisher": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/RL/kumbh-mela-01258"
+    },
+    {
+      "title": "Surface Water and Ocean Topography (SWOT)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Surface_Water_and_Ocean_Topography"
+    },
+    {
+      "title": "PM lays foundation stone of Ken-Betwa River Linking National Project",
+      "publisher": "PMIndia",
+      "url": "https://www.pmindia.gov.in/en/news_updates/pm-lays-foundation-stone-of-ken-betwa-river-linking-national-project-in-khajuraho-madhya-pradesh/"
+    },
+    {
+      "title": "Majuli",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Majuli"
+    },
+    {
+      "title": "About Ganga basin",
+      "publisher": "Central Water Commission",
+      "url": "https://cwc.gov.in/en/about-basins-0"
+    },
+    {
+      "title": "Course of Ganga",
+      "publisher": "Government of Uttarakhand (SPMG)",
+      "url": "https://spmguttarakhand.uk.gov.in/course-of-ganga/"
+    },
+    {
+      "title": "Ganges basin, Farakka station (GRDC data)",
+      "publisher": "UNH / GRDC Composite Runoff Fields",
+      "url": "https://www.compositerunoff.sr.unh.edu/html/Polygons/P2846800.html"
+    },
+    {
+      "title": "Howard and Knutson (1984), Sufficient conditions for river meandering",
+      "publisher": "Water Resources Research",
+      "url": "https://doi.org/10.1029/WR020i011p01659"
+    },
+    {
+      "title": "Harold Fisk",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harold_N._Fisk"
+    },
+    {
+      "title": "Ganga Action Plan",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ganga_Action_Plan"
+    },
+    {
+      "title": "Niagara Falls geology",
+      "publisher": "New York State Museum",
+      "url": "https://nysm.nysed.gov/node/23585"
+    },
+    {
+      "title": "The Sundarbans (Bangladesh)",
+      "publisher": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/798"
+    },
+    {
+      "title": "Central Water Commission",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Central_Water_Commission"
+    },
+    {
+      "title": "Cabinet approves Namami Gange",
+      "publisher": "PMIndia",
+      "url": "https://pmindia.gov.in/?p=30815"
+    }
+  ]
+}
